@@ -11,8 +11,12 @@ O catapultă complet funcțională de mărime mică cu un mecanism de reîncărc
 - [ ] "buton" de lansare: piedică care poate fi scoasă printr-o acțiune cât mai simplă
 - [ ] sistem de fixare: priză care poate acționa pe marginea unui birou prin înșurubare
 
+>[!IMPORTANT]
+>## Obiectiv
+>Lansarea unei gume de șters 4 metri în lungime de pe un birou.
 
-Inspirație:
+
+## Inspirație:
 
 https://www.youtube.com/watch?v=PPM_qJcPvXs
 
