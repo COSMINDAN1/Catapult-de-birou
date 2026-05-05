@@ -9,14 +9,17 @@ O catapultă complet funcțională de mărime mică cu un mecanism de reîncărc
 - [ ] mecanism de lansare principal: braț ținut în tensiune de o pereche de arcuri de torsiune
 - [ ] reîncărcare: sistem de roți dințate supradimensionat care readuce brațul în poziția inițială de dinaintea lansării proiectilului
 - [ ] "buton" de lansare: piedică care poate fi scoasă printr-o acțiune cât mai simplă
-- [ ] sistem de fixare: priză care poate acționa pe marginea unui birou prin înșurubare
+- [ ] sistem de fixare: priză care poate acționa pe marginea unui birou
 
 >[!IMPORTANT]
 >## Obiectiv
->Lansarea unei gume de șters 4 metri în lungime de pe un birou.
+>Lansarea de pe un birou a unei gume de șters, de mărime mică, 4 metri în lungime.
+
 
 
 ## Inspirație:
+
+<img width="410" height="555" alt="image" src="https://github.com/COSMINDAN1/Catapult-de-birou/blob/main/image.png" />
 
 https://www.youtube.com/watch?v=PPM_qJcPvXs
 
