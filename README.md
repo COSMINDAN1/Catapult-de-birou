@@ -1,19 +1,39 @@
 # Catapulta-de-birou
 
-## Descriere scurta
-O catapultă complet funcțională de mărime mică cu un mecanism de reîncărcare.
+## Descriere 
+O catapultă de mărime mică complet funcțională care poate fi asamblată cu ușurință. Pe lângă sistemul de catapultare, care folosește două arcuri de torsiune, aceasta include și o piedică simplă care poate permite o lansare mai dinamică. Dimensiunile aproximative (cu brațul sub tensiune și piedică pusă) sunt următoarele: 250x97x144 mm (Lxlxh).
 
 
-## Subsisteme/Feature-uri necesare
+## Componente, cu tot cu utilitate
+- braț
+  - componentă integrală care transferă forța de cuplu a arcelor de torsiune către proiectil
+  - gaură hexagonală, compatibilă cu capetele arcurilor de torsiune
+- 2xarc de torsiune
+  - "motorul" catapultei, generează cuplu în urma coborârii brațului la nivelul plăcii de bază
+  - arcul stâng diferă de cel drept (este oglindit)
+  - pereche de snap-joints pentru a permite fixarea in brațul catapultei
+  - două găuri hexagonale pentru fixare în profilul catapultei
+- 2xprofil de sustinere(oglindite)
+  - menține axul de rotație al brațului
+  - oglindite
+  - necesită o tijă care asigură integritate și care oprește brațul din a se roti prea mult (o rotatie prea mare poate influenta negativ traiectoria proiectilului)
+  - pereche de tije hexagonale, folosite pentru fixarea arcurilor de torsiune
+- bază
+  - ține toate componentele în loc
+  - are picioare care ridică catapulta suficient pentru a duce brațul în poziție corectă de armare
+- tijă pentru rigidatea profilelor
+  - rolul este explicat în detaliu la profilul de sustinere
+  - pereche de snap-joints pentru fixare
+- piedică
+  - permite o lansare mai dinamică
 
-- [ ] mecanism de lansare principal: braț ținut în tensiune de o pereche de arcuri de torsiune
-- [ ] reîncărcare: sistem de roți dințate supradimensionat care readuce brațul în poziția inițială de dinaintea lansării proiectilului
-- [ ] "buton" de lansare: piedică care poate fi scoasă printr-o acțiune cât mai simplă
-- [ ] sistem de fixare: priză care poate acționa pe marginea unui birou
+## Procesul prin care a fost gândit acest proiect
+
+Principalele aspecte avute în vizor în timpul proiectării acestui obiect a fost aspectul printării tuturor componentelor. Întâi au fost proiectate arcurile de torsiune și brațul. Pentru a evita posibile defecte de printare, formele folosite au fost simple și gândite pentru o printare pe o parte cu suprafață maximă de contact cu build-plate-ul
 
 >[!IMPORTANT]
->## Obiectiv
->Lansarea de pe un birou a unei gume de șters, de mărime mică, 4 metri în lungime.
+>## TO DO (cea a mai ramas)
+>render, youtube si resurse
 
 
 
