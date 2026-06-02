@@ -29,11 +29,19 @@ O catapultă de mărime mică complet funcțională care poate fi asamblată cu 
 
 ## Procesul prin care a fost gândit acest proiect
 
-Principalele aspecte avute în vizor în timpul proiectării acestui obiect a fost aspectul printării tuturor componentelor. Întâi au fost proiectate arcurile de torsiune și brațul. Pentru a evita posibile defecte de printare, formele folosite au fost simple și gândite pentru o printare pe o parte cu suprafață maximă de contact cu build-plate-ul
+Principalele aspecte avute în vizor în timpul proiectării acestui obiect a fost aspectul printării tuturor componentelor. Întâi au fost proiectate arcurile de torsiune și brațul. Pentru a evita posibile defecte de printare, formele folosite au fost simple și gândite pentru o printare pe o parte cu suprafață maximă de contact cu build-plate-ul.
 
->[!IMPORTANT]
->## TO DO (cea a mai ramas)
->render, youtube si resurse
+După a fost proiectat profilul catapultei astfel încât să mențină axul de rotație pentru braț și să țină arcurile de torsiune în loc. Tija dintre aceste profiluri are rolul de a ține în loc vârfurile profilelor și de a limita rotația brațului catapultei pentru a asigura o traiectorie cât mai bună. Atât profilurile cât și tija se pot asambla prin snap-joint - uri.
+
+Placa de bază se folosește de același principiu pentru a fixa cele două profiluri. De asemenea permite și o rotație a brațului cât mai aproape de sol, pentru a cumula suficientă tensiune în arcuri.
+
+Pentru o durabilitate cât mai lungă, toate componentele au fost proiectate pentru a fi cât mai robuste, pentru a rezista în urma mai multor schimburi de arcuri, care se pot uza în timp.
+
+## Link animație 
+
+https://youtu.be/YSIf-W4bNyE
+
+## Câteva poze
 
 
 
