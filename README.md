@@ -43,7 +43,13 @@ https://youtu.be/YSIf-W4bNyE
 
 ## Câteva poze
 
-
+<img width="2048" height="1536" alt="image" src="https://github.com/COSMINDAN1/Catapult-de-birou/blob/main/render1.png" />
+<img width="2048" height="1536" alt="image" src="https://github.com/COSMINDAN1/Catapult-de-birou/blob/main/render%202.png" />
+<img width="2048" height="1536" alt="image" src="https://github.com/COSMINDAN1/Catapult-de-birou/blob/main/render%203.png" />
+<img width="2048" height="1536" alt="image" src="https://github.com/COSMINDAN1/Catapult-de-birou/blob/main/render%204.png" />
+<img width="2048" height="1536" alt="image" src="https://github.com/COSMINDAN1/Catapult-de-birou/blob/main/render%205.png" />
+<img width="2048" height="1536" alt="image" src="https://github.com/COSMINDAN1/Catapult-de-birou/blob/main/render%206.png" />
+<img width="1920" height="632" alt="image" src="https://github.com/COSMINDAN1/Catapult-de-birou/blob/main/render%207.png" />
 
 ## Inspirație:
 
@@ -53,3 +59,6 @@ https://www.youtube.com/watch?v=PPM_qJcPvXs
 
 https://www.youtube.com/watch?v=9euH-VNv6pM
 
+## Resurse
+
+Autodesk, Fusion 360
